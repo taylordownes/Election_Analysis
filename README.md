@@ -34,9 +34,9 @@ The purpose of the challenge was to use the election_results.csv data to determi
 
 Our goal was to use for loops and conditional statements with membership and logical operators to print these results to the command line and save them to the election_results.txt file.
 
-### Results.
+### Results:
 
-The final results are as shown below:
+The final results are as follows:
 
 <img src="https://user-images.githubusercontent.com/84201614/123560813-40498f80-d76a-11eb-842a-5dbef1ed32e0.png" width="400" height="500">
 
