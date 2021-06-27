@@ -1,3 +1,3 @@
 counties_dict = {"Arapahoe": 422829, "Denver": 463353,"Jefferson": 432438}
 for county, voters in counties_dict.items():
-    print(str(county +"has", voters + "registered voters."))
+    print(str(county "has", voters "registered voters."))
